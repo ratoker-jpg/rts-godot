@@ -16,7 +16,7 @@ const Direction := preload("res://Scripts/utils/direction.gd")
 const CombatRange := preload("res://Scripts/core/combat_range.gd")
 const Pathfinding := preload("res://Scripts/core/pathfinding.gd")
 const MovementStateMachine := preload("res://Scripts/core/movement_state_machine.gd")
-const OccupancyMap = preload("res://Scripts/core/occupancy_map.gd")
+const OccupancyMap := preload("res://Scripts/core/occupancy_map.gd")
 
 
 # Обновить боевой AI для одного юнита с активным target-lock.

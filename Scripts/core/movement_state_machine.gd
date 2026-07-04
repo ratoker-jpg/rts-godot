@@ -29,7 +29,7 @@ enum Phase {
 const Constants := preload("res://Scripts/core/constants.gd")
 const Direction := preload("res://Scripts/utils/direction.gd")
 const Pathfinding := preload("res://Scripts/core/pathfinding.gd")
-const TileReservationMap = preload("res://Scripts/core/tile_reservation.gd")
+const TileReservationMap := preload("res://Scripts/core/tile_reservation.gd")
 
 
 class GridMovementConfig:
@@ -37,14 +37,14 @@ class GridMovementConfig:
         var acceleration_tiles_per_sec2: float
         var braking_tiles_per_sec2: float
         var turn_speed_deg: float
-        var arrival_threshold: float = Constants.DEFAULT_ARRIVAL_THRESHOLD
+        var arrival_threshold: float = 0.08  # DEFAULT_ARRIVAL_THRESHOLD
 
         func _init(
                         max_speed: float = 3.0,
                         accel: float = 8.0,
                         braking: float = 6.0,
                         turn_deg: float = 120.0,
-                        threshold: float = Constants.DEFAULT_ARRIVAL_THRESHOLD
+                        threshold: float = 0.08
                 ) -> void:
                 max_speed_tiles_per_sec = max_speed
                 acceleration_tiles_per_sec2 = accel
@@ -54,7 +54,7 @@ class GridMovementConfig:
 
 
 class GridMovementState:
-        var phase: int = Phase.IDLE
+        var phase: int = 0  # Phase.IDLE (нельзя использовать enum как default в inner class)
         var path: Array[Vector2i] = []
         var path_index: int = 0
         var ftx: float = 0.0  # fractional tile X
