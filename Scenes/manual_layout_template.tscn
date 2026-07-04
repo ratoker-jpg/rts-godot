@@ -1,0 +1,23 @@
+[gd_scene format=3 uid="uid://cij61gxjdgit2"]
+
+[ext_resource type="TileSet" path="res://Scenes/isometric_tiles_TOP_FACE_try.tres" id="1_ewbp5"]
+
+[node name="ManualLayoutTemplate" type="Node2D" unique_id=1155795710]
+
+[node name="Ground" type="TileMapLayer" parent="." unique_id=884223523]
+y_sort_enabled = true
+tile_set = ExtResource("1_ewbp5")
+
+[node name="Buildings" type="Node2D" parent="." unique_id=111152746]
+y_sort_enabled = true
+
+[node name="Environment" type="Node2D" parent="." unique_id=1958786145]
+y_sort_enabled = true
+
+[node name="EditorNotes" type="Label" parent="." unique_id=1087637793]
+offset_left = 20.0
+offset_top = -80.0
+offset_right = 20.0
+offset_bottom = -80.0
+theme_override_font_sizes/font_size = 14
+text = "Ручной шаблон: рисуй землю в Ground, базы и здания клади в Buildings, кусты и деревья в Environment. Сохрани сцену, потом Codex сможет прочитать её как источник раскладки."

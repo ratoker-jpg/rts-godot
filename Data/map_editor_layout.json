@@ -1,0 +1,4097 @@
+{
+	"map_size": 64,
+	"objects": [
+		{
+			"cell": [
+				13,
+				15
+			],
+			"color": "yellow",
+			"faction": "",
+			"group": "",
+			"id": "yellow_tier_04",
+			"kind": "",
+			"offset": [
+				1.0,
+				-27.0
+			],
+			"path": "res://Assets/Resources/Minerals/yellow/tier_04.png",
+			"scale": [
+				0.47697377204895,
+				0.47697377204895
+			],
+			"tier": 4,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				14,
+				15
+			],
+			"color": "yellow",
+			"faction": "",
+			"group": "",
+			"id": "yellow_tier_04",
+			"kind": "",
+			"offset": [
+				1.0,
+				-27.0
+			],
+			"path": "res://Assets/Resources/Minerals/yellow/tier_04.png",
+			"scale": [
+				0.47697377204895,
+				0.47697377204895
+			],
+			"tier": 4,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				15,
+				15
+			],
+			"color": "yellow",
+			"faction": "",
+			"group": "",
+			"id": "yellow_tier_04",
+			"kind": "",
+			"offset": [
+				1.0,
+				-27.0
+			],
+			"path": "res://Assets/Resources/Minerals/yellow/tier_04.png",
+			"scale": [
+				0.47697377204895,
+				0.47697377204895
+			],
+			"tier": 4,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				16,
+				15
+			],
+			"color": "yellow",
+			"faction": "",
+			"group": "",
+			"id": "yellow_tier_04",
+			"kind": "",
+			"offset": [
+				1.0,
+				-27.0
+			],
+			"path": "res://Assets/Resources/Minerals/yellow/tier_04.png",
+			"scale": [
+				0.47697377204895,
+				0.47697377204895
+			],
+			"tier": 4,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				17,
+				15
+			],
+			"color": "yellow",
+			"faction": "",
+			"group": "",
+			"id": "yellow_tier_04",
+			"kind": "",
+			"offset": [
+				1.0,
+				-27.0
+			],
+			"path": "res://Assets/Resources/Minerals/yellow/tier_04.png",
+			"scale": [
+				0.47697377204895,
+				0.47697377204895
+			],
+			"tier": 4,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				18,
+				15
+			],
+			"color": "yellow",
+			"faction": "",
+			"group": "",
+			"id": "yellow_tier_04",
+			"kind": "",
+			"offset": [
+				1.0,
+				-27.0
+			],
+			"path": "res://Assets/Resources/Minerals/yellow/tier_04.png",
+			"scale": [
+				0.47697377204895,
+				0.47697377204895
+			],
+			"tier": 4,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				13,
+				16
+			],
+			"color": "yellow",
+			"faction": "",
+			"group": "",
+			"id": "yellow_tier_04",
+			"kind": "",
+			"offset": [
+				1.0,
+				-27.0
+			],
+			"path": "res://Assets/Resources/Minerals/yellow/tier_04.png",
+			"scale": [
+				0.47697377204895,
+				0.47697377204895
+			],
+			"tier": 4,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				14,
+				16
+			],
+			"color": "yellow",
+			"faction": "",
+			"group": "",
+			"id": "yellow_tier_05",
+			"kind": "",
+			"offset": [
+				-0.5,
+				-39.0
+			],
+			"path": "res://Assets/Resources/Minerals/yellow/tier_05.png",
+			"scale": [
+				0.456586867570877,
+				0.456586867570877
+			],
+			"tier": 5,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				15,
+				16
+			],
+			"color": "yellow",
+			"faction": "",
+			"group": "",
+			"id": "yellow_tier_05",
+			"kind": "",
+			"offset": [
+				-0.5,
+				-39.0
+			],
+			"path": "res://Assets/Resources/Minerals/yellow/tier_05.png",
+			"scale": [
+				0.456586867570877,
+				0.456586867570877
+			],
+			"tier": 5,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				16,
+				16
+			],
+			"color": "yellow",
+			"faction": "",
+			"group": "",
+			"id": "yellow_tier_05",
+			"kind": "",
+			"offset": [
+				-0.5,
+				-39.0
+			],
+			"path": "res://Assets/Resources/Minerals/yellow/tier_05.png",
+			"scale": [
+				0.456586867570877,
+				0.456586867570877
+			],
+			"tier": 5,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				17,
+				16
+			],
+			"color": "yellow",
+			"faction": "",
+			"group": "",
+			"id": "yellow_tier_05",
+			"kind": "",
+			"offset": [
+				-0.5,
+				-39.0
+			],
+			"path": "res://Assets/Resources/Minerals/yellow/tier_05.png",
+			"scale": [
+				0.456586867570877,
+				0.456586867570877
+			],
+			"tier": 5,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				18,
+				16
+			],
+			"color": "yellow",
+			"faction": "",
+			"group": "",
+			"id": "yellow_tier_04",
+			"kind": "",
+			"offset": [
+				1.0,
+				-27.0
+			],
+			"path": "res://Assets/Resources/Minerals/yellow/tier_04.png",
+			"scale": [
+				0.47697377204895,
+				0.47697377204895
+			],
+			"tier": 4,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				13,
+				17
+			],
+			"color": "yellow",
+			"faction": "",
+			"group": "",
+			"id": "yellow_tier_04",
+			"kind": "",
+			"offset": [
+				1.0,
+				-27.0
+			],
+			"path": "res://Assets/Resources/Minerals/yellow/tier_04.png",
+			"scale": [
+				0.47697377204895,
+				0.47697377204895
+			],
+			"tier": 4,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				14,
+				17
+			],
+			"color": "yellow",
+			"faction": "",
+			"group": "",
+			"id": "yellow_tier_05",
+			"kind": "",
+			"offset": [
+				-0.5,
+				-39.0
+			],
+			"path": "res://Assets/Resources/Minerals/yellow/tier_05.png",
+			"scale": [
+				0.456586867570877,
+				0.456586867570877
+			],
+			"tier": 5,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				15,
+				17
+			],
+			"color": "cyan",
+			"faction": "",
+			"group": "",
+			"id": "cyan_tier_06",
+			"kind": "",
+			"offset": [
+				-11.0,
+				6.0
+			],
+			"path": "res://Assets/Resources/Minerals/cyan/tier_06.png",
+			"scale": [
+				0.644638419151306,
+				0.644638419151306
+			],
+			"tier": 6,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				17,
+				17
+			],
+			"color": "yellow",
+			"faction": "",
+			"group": "",
+			"id": "yellow_tier_05",
+			"kind": "",
+			"offset": [
+				-0.5,
+				-39.0
+			],
+			"path": "res://Assets/Resources/Minerals/yellow/tier_05.png",
+			"scale": [
+				0.456586867570877,
+				0.456586867570877
+			],
+			"tier": 5,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				18,
+				17
+			],
+			"color": "yellow",
+			"faction": "",
+			"group": "",
+			"id": "yellow_tier_04",
+			"kind": "",
+			"offset": [
+				1.0,
+				-27.0
+			],
+			"path": "res://Assets/Resources/Minerals/yellow/tier_04.png",
+			"scale": [
+				0.47697377204895,
+				0.47697377204895
+			],
+			"tier": 4,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				13,
+				18
+			],
+			"color": "yellow",
+			"faction": "",
+			"group": "",
+			"id": "yellow_tier_04",
+			"kind": "",
+			"offset": [
+				1.0,
+				-27.0
+			],
+			"path": "res://Assets/Resources/Minerals/yellow/tier_04.png",
+			"scale": [
+				0.47697377204895,
+				0.47697377204895
+			],
+			"tier": 4,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				14,
+				18
+			],
+			"color": "yellow",
+			"faction": "",
+			"group": "",
+			"id": "yellow_tier_05",
+			"kind": "",
+			"offset": [
+				-0.5,
+				-39.0
+			],
+			"path": "res://Assets/Resources/Minerals/yellow/tier_05.png",
+			"scale": [
+				0.456586867570877,
+				0.456586867570877
+			],
+			"tier": 5,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				17,
+				18
+			],
+			"color": "yellow",
+			"faction": "",
+			"group": "",
+			"id": "yellow_tier_05",
+			"kind": "",
+			"offset": [
+				-0.5,
+				-39.0
+			],
+			"path": "res://Assets/Resources/Minerals/yellow/tier_05.png",
+			"scale": [
+				0.456586867570877,
+				0.456586867570877
+			],
+			"tier": 5,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				18,
+				18
+			],
+			"color": "yellow",
+			"faction": "",
+			"group": "",
+			"id": "yellow_tier_04",
+			"kind": "",
+			"offset": [
+				1.0,
+				-27.0
+			],
+			"path": "res://Assets/Resources/Minerals/yellow/tier_04.png",
+			"scale": [
+				0.47697377204895,
+				0.47697377204895
+			],
+			"tier": 4,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				13,
+				19
+			],
+			"color": "yellow",
+			"faction": "",
+			"group": "",
+			"id": "yellow_tier_04",
+			"kind": "",
+			"offset": [
+				1.0,
+				-27.0
+			],
+			"path": "res://Assets/Resources/Minerals/yellow/tier_04.png",
+			"scale": [
+				0.47697377204895,
+				0.47697377204895
+			],
+			"tier": 4,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				14,
+				19
+			],
+			"color": "yellow",
+			"faction": "",
+			"group": "",
+			"id": "yellow_tier_05",
+			"kind": "",
+			"offset": [
+				-0.5,
+				-39.0
+			],
+			"path": "res://Assets/Resources/Minerals/yellow/tier_05.png",
+			"scale": [
+				0.456586867570877,
+				0.456586867570877
+			],
+			"tier": 5,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				15,
+				19
+			],
+			"color": "yellow",
+			"faction": "",
+			"group": "",
+			"id": "yellow_tier_05",
+			"kind": "",
+			"offset": [
+				-0.5,
+				-39.0
+			],
+			"path": "res://Assets/Resources/Minerals/yellow/tier_05.png",
+			"scale": [
+				0.456586867570877,
+				0.456586867570877
+			],
+			"tier": 5,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				16,
+				19
+			],
+			"color": "yellow",
+			"faction": "",
+			"group": "",
+			"id": "yellow_tier_05",
+			"kind": "",
+			"offset": [
+				-0.5,
+				-39.0
+			],
+			"path": "res://Assets/Resources/Minerals/yellow/tier_05.png",
+			"scale": [
+				0.456586867570877,
+				0.456586867570877
+			],
+			"tier": 5,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				17,
+				19
+			],
+			"color": "yellow",
+			"faction": "",
+			"group": "",
+			"id": "yellow_tier_05",
+			"kind": "",
+			"offset": [
+				-0.5,
+				-39.0
+			],
+			"path": "res://Assets/Resources/Minerals/yellow/tier_05.png",
+			"scale": [
+				0.456586867570877,
+				0.456586867570877
+			],
+			"tier": 5,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				18,
+				19
+			],
+			"color": "yellow",
+			"faction": "",
+			"group": "",
+			"id": "yellow_tier_04",
+			"kind": "",
+			"offset": [
+				1.0,
+				-27.0
+			],
+			"path": "res://Assets/Resources/Minerals/yellow/tier_04.png",
+			"scale": [
+				0.47697377204895,
+				0.47697377204895
+			],
+			"tier": 4,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				13,
+				20
+			],
+			"color": "yellow",
+			"faction": "",
+			"group": "",
+			"id": "yellow_tier_04",
+			"kind": "",
+			"offset": [
+				1.0,
+				-27.0
+			],
+			"path": "res://Assets/Resources/Minerals/yellow/tier_04.png",
+			"scale": [
+				0.47697377204895,
+				0.47697377204895
+			],
+			"tier": 4,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				14,
+				20
+			],
+			"color": "yellow",
+			"faction": "",
+			"group": "",
+			"id": "yellow_tier_04",
+			"kind": "",
+			"offset": [
+				1.0,
+				-27.0
+			],
+			"path": "res://Assets/Resources/Minerals/yellow/tier_04.png",
+			"scale": [
+				0.47697377204895,
+				0.47697377204895
+			],
+			"tier": 4,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				15,
+				20
+			],
+			"color": "yellow",
+			"faction": "",
+			"group": "",
+			"id": "yellow_tier_04",
+			"kind": "",
+			"offset": [
+				1.0,
+				-27.0
+			],
+			"path": "res://Assets/Resources/Minerals/yellow/tier_04.png",
+			"scale": [
+				0.47697377204895,
+				0.47697377204895
+			],
+			"tier": 4,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				16,
+				20
+			],
+			"color": "yellow",
+			"faction": "",
+			"group": "",
+			"id": "yellow_tier_04",
+			"kind": "",
+			"offset": [
+				1.0,
+				-27.0
+			],
+			"path": "res://Assets/Resources/Minerals/yellow/tier_04.png",
+			"scale": [
+				0.47697377204895,
+				0.47697377204895
+			],
+			"tier": 4,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				17,
+				20
+			],
+			"color": "yellow",
+			"faction": "",
+			"group": "",
+			"id": "yellow_tier_04",
+			"kind": "",
+			"offset": [
+				1.0,
+				-27.0
+			],
+			"path": "res://Assets/Resources/Minerals/yellow/tier_04.png",
+			"scale": [
+				0.47697377204895,
+				0.47697377204895
+			],
+			"tier": 4,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				18,
+				20
+			],
+			"color": "yellow",
+			"faction": "",
+			"group": "",
+			"id": "yellow_tier_04",
+			"kind": "",
+			"offset": [
+				1.0,
+				-27.0
+			],
+			"path": "res://Assets/Resources/Minerals/yellow/tier_04.png",
+			"scale": [
+				0.47697377204895,
+				0.47697377204895
+			],
+			"tier": 4,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				33,
+				29
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "trees_a_trees_a_01",
+			"kind": "trees_a",
+			"offset": [
+				-6.0,
+				15.0
+			],
+			"path": "res://Assets/Environment/Vegetation/trees_a/trees_a_01.png",
+			"scale": [
+				1.0,
+				1.0
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				34,
+				29
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "trees_a_trees_a_01",
+			"kind": "trees_a",
+			"offset": [
+				-6.0,
+				15.0
+			],
+			"path": "res://Assets/Environment/Vegetation/trees_a/trees_a_01.png",
+			"scale": [
+				1.0,
+				1.0
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				35,
+				29
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "trees_a_trees_a_01",
+			"kind": "trees_a",
+			"offset": [
+				-6.0,
+				15.0
+			],
+			"path": "res://Assets/Environment/Vegetation/trees_a/trees_a_01.png",
+			"scale": [
+				1.0,
+				1.0
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				36,
+				29
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "trees_a_trees_a_01",
+			"kind": "trees_a",
+			"offset": [
+				-6.0,
+				15.0
+			],
+			"path": "res://Assets/Environment/Vegetation/trees_a/trees_a_01.png",
+			"scale": [
+				1.0,
+				1.0
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				37,
+				29
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "trees_a_trees_a_01",
+			"kind": "trees_a",
+			"offset": [
+				-6.0,
+				15.0
+			],
+			"path": "res://Assets/Environment/Vegetation/trees_a/trees_a_01.png",
+			"scale": [
+				1.0,
+				1.0
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				38,
+				29
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "trees_a_trees_a_01",
+			"kind": "trees_a",
+			"offset": [
+				-6.0,
+				15.0
+			],
+			"path": "res://Assets/Environment/Vegetation/trees_a/trees_a_01.png",
+			"scale": [
+				1.0,
+				1.0
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				39,
+				29
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "trees_a_trees_a_01",
+			"kind": "trees_a",
+			"offset": [
+				-6.0,
+				15.0
+			],
+			"path": "res://Assets/Environment/Vegetation/trees_a/trees_a_01.png",
+			"scale": [
+				1.0,
+				1.0
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				40,
+				29
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "trees_a_trees_a_01",
+			"kind": "trees_a",
+			"offset": [
+				-6.0,
+				15.0
+			],
+			"path": "res://Assets/Environment/Vegetation/trees_a/trees_a_01.png",
+			"scale": [
+				1.0,
+				1.0
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				41,
+				29
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "trees_a_trees_a_01",
+			"kind": "trees_a",
+			"offset": [
+				-6.0,
+				15.0
+			],
+			"path": "res://Assets/Environment/Vegetation/trees_a/trees_a_01.png",
+			"scale": [
+				1.0,
+				1.0
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				42,
+				29
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "trees_a_trees_a_01",
+			"kind": "trees_a",
+			"offset": [
+				-6.0,
+				15.0
+			],
+			"path": "res://Assets/Environment/Vegetation/trees_a/trees_a_01.png",
+			"scale": [
+				1.0,
+				1.0
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				43,
+				29
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "trees_a_trees_a_01",
+			"kind": "trees_a",
+			"offset": [
+				-6.0,
+				15.0
+			],
+			"path": "res://Assets/Environment/Vegetation/trees_a/trees_a_01.png",
+			"scale": [
+				1.0,
+				1.0
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				44,
+				29
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "trees_a_trees_a_01",
+			"kind": "trees_a",
+			"offset": [
+				-6.0,
+				15.0
+			],
+			"path": "res://Assets/Environment/Vegetation/trees_a/trees_a_01.png",
+			"scale": [
+				1.0,
+				1.0
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				45,
+				29
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "trees_a_trees_a_01",
+			"kind": "trees_a",
+			"offset": [
+				-6.0,
+				15.0
+			],
+			"path": "res://Assets/Environment/Vegetation/trees_a/trees_a_01.png",
+			"scale": [
+				1.0,
+				1.0
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				46,
+				29
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "trees_a_trees_a_01",
+			"kind": "trees_a",
+			"offset": [
+				-6.0,
+				15.0
+			],
+			"path": "res://Assets/Environment/Vegetation/trees_a/trees_a_01.png",
+			"scale": [
+				1.0,
+				1.0
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				47,
+				29
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "trees_a_trees_a_01",
+			"kind": "trees_a",
+			"offset": [
+				-6.0,
+				15.0
+			],
+			"path": "res://Assets/Environment/Vegetation/trees_a/trees_a_01.png",
+			"scale": [
+				1.0,
+				1.0
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				48,
+				29
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "trees_a_trees_a_01",
+			"kind": "trees_a",
+			"offset": [
+				-6.0,
+				15.0
+			],
+			"path": "res://Assets/Environment/Vegetation/trees_a/trees_a_01.png",
+			"scale": [
+				1.0,
+				1.0
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				49,
+				29
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "trees_a_trees_a_01",
+			"kind": "trees_a",
+			"offset": [
+				-6.0,
+				15.0
+			],
+			"path": "res://Assets/Environment/Vegetation/trees_a/trees_a_01.png",
+			"scale": [
+				1.0,
+				1.0
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				50,
+				29
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "trees_a_trees_a_01",
+			"kind": "trees_a",
+			"offset": [
+				-6.0,
+				15.0
+			],
+			"path": "res://Assets/Environment/Vegetation/trees_a/trees_a_01.png",
+			"scale": [
+				1.0,
+				1.0
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				51,
+				29
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "trees_a_trees_a_01",
+			"kind": "trees_a",
+			"offset": [
+				-6.0,
+				15.0
+			],
+			"path": "res://Assets/Environment/Vegetation/trees_a/trees_a_01.png",
+			"scale": [
+				1.0,
+				1.0
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				52,
+				29
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "trees_a_trees_a_01",
+			"kind": "trees_a",
+			"offset": [
+				-6.0,
+				15.0
+			],
+			"path": "res://Assets/Environment/Vegetation/trees_a/trees_a_01.png",
+			"scale": [
+				1.0,
+				1.0
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				53,
+				29
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "trees_a_trees_a_01",
+			"kind": "trees_a",
+			"offset": [
+				-6.0,
+				15.0
+			],
+			"path": "res://Assets/Environment/Vegetation/trees_a/trees_a_01.png",
+			"scale": [
+				1.0,
+				1.0
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				54,
+				29
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "trees_a_trees_a_01",
+			"kind": "trees_a",
+			"offset": [
+				-6.0,
+				15.0
+			],
+			"path": "res://Assets/Environment/Vegetation/trees_a/trees_a_01.png",
+			"scale": [
+				1.0,
+				1.0
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				55,
+				29
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "trees_a_trees_a_01",
+			"kind": "trees_a",
+			"offset": [
+				-6.0,
+				15.0
+			],
+			"path": "res://Assets/Environment/Vegetation/trees_a/trees_a_01.png",
+			"scale": [
+				1.0,
+				1.0
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				56,
+				29
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "trees_a_trees_a_01",
+			"kind": "trees_a",
+			"offset": [
+				-6.0,
+				15.0
+			],
+			"path": "res://Assets/Environment/Vegetation/trees_a/trees_a_01.png",
+			"scale": [
+				1.0,
+				1.0
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				57,
+				29
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "trees_a_trees_a_01",
+			"kind": "trees_a",
+			"offset": [
+				-6.0,
+				15.0
+			],
+			"path": "res://Assets/Environment/Vegetation/trees_a/trees_a_01.png",
+			"scale": [
+				1.0,
+				1.0
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				58,
+				29
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "trees_a_trees_a_01",
+			"kind": "trees_a",
+			"offset": [
+				-6.0,
+				15.0
+			],
+			"path": "res://Assets/Environment/Vegetation/trees_a/trees_a_01.png",
+			"scale": [
+				1.0,
+				1.0
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				59,
+				29
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "trees_a_trees_a_01",
+			"kind": "trees_a",
+			"offset": [
+				-6.0,
+				15.0
+			],
+			"path": "res://Assets/Environment/Vegetation/trees_a/trees_a_01.png",
+			"scale": [
+				1.0,
+				1.0
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				60,
+				29
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "trees_a_trees_a_01",
+			"kind": "trees_a",
+			"offset": [
+				-6.0,
+				15.0
+			],
+			"path": "res://Assets/Environment/Vegetation/trees_a/trees_a_01.png",
+			"scale": [
+				1.0,
+				1.0
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				61,
+				29
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "trees_a_trees_a_01",
+			"kind": "trees_a",
+			"offset": [
+				-6.0,
+				15.0
+			],
+			"path": "res://Assets/Environment/Vegetation/trees_a/trees_a_01.png",
+			"scale": [
+				1.0,
+				1.0
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				34,
+				30
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "trees_a_trees_a_01",
+			"kind": "trees_a",
+			"offset": [
+				-6.0,
+				15.0
+			],
+			"path": "res://Assets/Environment/Vegetation/trees_a/trees_a_01.png",
+			"scale": [
+				1.0,
+				1.0
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				35,
+				30
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "trees_a_trees_a_01",
+			"kind": "trees_a",
+			"offset": [
+				-6.0,
+				15.0
+			],
+			"path": "res://Assets/Environment/Vegetation/trees_a/trees_a_01.png",
+			"scale": [
+				1.0,
+				1.0
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				36,
+				30
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "trees_a_trees_a_01",
+			"kind": "trees_a",
+			"offset": [
+				-6.0,
+				15.0
+			],
+			"path": "res://Assets/Environment/Vegetation/trees_a/trees_a_01.png",
+			"scale": [
+				1.0,
+				1.0
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				37,
+				30
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "trees_a_trees_a_01",
+			"kind": "trees_a",
+			"offset": [
+				-6.0,
+				15.0
+			],
+			"path": "res://Assets/Environment/Vegetation/trees_a/trees_a_01.png",
+			"scale": [
+				1.0,
+				1.0
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				38,
+				30
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "trees_a_trees_a_01",
+			"kind": "trees_a",
+			"offset": [
+				-6.0,
+				15.0
+			],
+			"path": "res://Assets/Environment/Vegetation/trees_a/trees_a_01.png",
+			"scale": [
+				1.0,
+				1.0
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				39,
+				30
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "trees_a_trees_a_01",
+			"kind": "trees_a",
+			"offset": [
+				-6.0,
+				15.0
+			],
+			"path": "res://Assets/Environment/Vegetation/trees_a/trees_a_01.png",
+			"scale": [
+				1.0,
+				1.0
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				40,
+				30
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "trees_a_trees_a_01",
+			"kind": "trees_a",
+			"offset": [
+				-6.0,
+				15.0
+			],
+			"path": "res://Assets/Environment/Vegetation/trees_a/trees_a_01.png",
+			"scale": [
+				1.0,
+				1.0
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				41,
+				30
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "trees_a_trees_a_01",
+			"kind": "trees_a",
+			"offset": [
+				-6.0,
+				15.0
+			],
+			"path": "res://Assets/Environment/Vegetation/trees_a/trees_a_01.png",
+			"scale": [
+				1.0,
+				1.0
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				42,
+				30
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "trees_a_trees_a_01",
+			"kind": "trees_a",
+			"offset": [
+				-6.0,
+				15.0
+			],
+			"path": "res://Assets/Environment/Vegetation/trees_a/trees_a_01.png",
+			"scale": [
+				1.0,
+				1.0
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				43,
+				30
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "trees_a_trees_a_01",
+			"kind": "trees_a",
+			"offset": [
+				-6.0,
+				15.0
+			],
+			"path": "res://Assets/Environment/Vegetation/trees_a/trees_a_01.png",
+			"scale": [
+				1.0,
+				1.0
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				44,
+				30
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "trees_a_trees_a_01",
+			"kind": "trees_a",
+			"offset": [
+				-6.0,
+				15.0
+			],
+			"path": "res://Assets/Environment/Vegetation/trees_a/trees_a_01.png",
+			"scale": [
+				1.0,
+				1.0
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				45,
+				30
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "trees_a_trees_a_01",
+			"kind": "trees_a",
+			"offset": [
+				-6.0,
+				15.0
+			],
+			"path": "res://Assets/Environment/Vegetation/trees_a/trees_a_01.png",
+			"scale": [
+				1.0,
+				1.0
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				46,
+				30
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "trees_a_trees_a_01",
+			"kind": "trees_a",
+			"offset": [
+				-6.0,
+				15.0
+			],
+			"path": "res://Assets/Environment/Vegetation/trees_a/trees_a_01.png",
+			"scale": [
+				1.0,
+				1.0
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				47,
+				30
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "trees_a_trees_a_01",
+			"kind": "trees_a",
+			"offset": [
+				-6.0,
+				15.0
+			],
+			"path": "res://Assets/Environment/Vegetation/trees_a/trees_a_01.png",
+			"scale": [
+				1.0,
+				1.0
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				48,
+				30
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "trees_a_trees_a_01",
+			"kind": "trees_a",
+			"offset": [
+				-6.0,
+				15.0
+			],
+			"path": "res://Assets/Environment/Vegetation/trees_a/trees_a_01.png",
+			"scale": [
+				1.0,
+				1.0
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				49,
+				30
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "trees_a_trees_a_01",
+			"kind": "trees_a",
+			"offset": [
+				-6.0,
+				15.0
+			],
+			"path": "res://Assets/Environment/Vegetation/trees_a/trees_a_01.png",
+			"scale": [
+				1.0,
+				1.0
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				50,
+				30
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "trees_a_trees_a_01",
+			"kind": "trees_a",
+			"offset": [
+				-6.0,
+				15.0
+			],
+			"path": "res://Assets/Environment/Vegetation/trees_a/trees_a_01.png",
+			"scale": [
+				1.0,
+				1.0
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				51,
+				30
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "trees_a_trees_a_01",
+			"kind": "trees_a",
+			"offset": [
+				-6.0,
+				15.0
+			],
+			"path": "res://Assets/Environment/Vegetation/trees_a/trees_a_01.png",
+			"scale": [
+				1.0,
+				1.0
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				52,
+				30
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "trees_a_trees_a_01",
+			"kind": "trees_a",
+			"offset": [
+				-6.0,
+				15.0
+			],
+			"path": "res://Assets/Environment/Vegetation/trees_a/trees_a_01.png",
+			"scale": [
+				1.0,
+				1.0
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				53,
+				30
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "trees_a_trees_a_01",
+			"kind": "trees_a",
+			"offset": [
+				-6.0,
+				15.0
+			],
+			"path": "res://Assets/Environment/Vegetation/trees_a/trees_a_01.png",
+			"scale": [
+				1.0,
+				1.0
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				54,
+				30
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "trees_a_trees_a_01",
+			"kind": "trees_a",
+			"offset": [
+				-6.0,
+				15.0
+			],
+			"path": "res://Assets/Environment/Vegetation/trees_a/trees_a_01.png",
+			"scale": [
+				1.0,
+				1.0
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				55,
+				30
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "trees_a_trees_a_01",
+			"kind": "trees_a",
+			"offset": [
+				-6.0,
+				15.0
+			],
+			"path": "res://Assets/Environment/Vegetation/trees_a/trees_a_01.png",
+			"scale": [
+				1.0,
+				1.0
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				56,
+				30
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "trees_a_trees_a_01",
+			"kind": "trees_a",
+			"offset": [
+				-6.0,
+				15.0
+			],
+			"path": "res://Assets/Environment/Vegetation/trees_a/trees_a_01.png",
+			"scale": [
+				1.0,
+				1.0
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				57,
+				30
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "trees_a_trees_a_01",
+			"kind": "trees_a",
+			"offset": [
+				-6.0,
+				15.0
+			],
+			"path": "res://Assets/Environment/Vegetation/trees_a/trees_a_01.png",
+			"scale": [
+				1.0,
+				1.0
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				58,
+				30
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "trees_a_trees_a_01",
+			"kind": "trees_a",
+			"offset": [
+				-6.0,
+				15.0
+			],
+			"path": "res://Assets/Environment/Vegetation/trees_a/trees_a_01.png",
+			"scale": [
+				1.0,
+				1.0
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				59,
+				30
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "trees_a_trees_a_01",
+			"kind": "trees_a",
+			"offset": [
+				-6.0,
+				15.0
+			],
+			"path": "res://Assets/Environment/Vegetation/trees_a/trees_a_01.png",
+			"scale": [
+				1.0,
+				1.0
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				60,
+				30
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "trees_a_trees_a_01",
+			"kind": "trees_a",
+			"offset": [
+				-6.0,
+				15.0
+			],
+			"path": "res://Assets/Environment/Vegetation/trees_a/trees_a_01.png",
+			"scale": [
+				1.0,
+				1.0
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				61,
+				30
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "trees_a_trees_a_01",
+			"kind": "trees_a",
+			"offset": [
+				-6.0,
+				15.0
+			],
+			"path": "res://Assets/Environment/Vegetation/trees_a/trees_a_01.png",
+			"scale": [
+				1.0,
+				1.0
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				34,
+				35
+			],
+			"color": "cyan",
+			"faction": "",
+			"group": "",
+			"id": "cyan_tier_01",
+			"kind": "",
+			"offset": [
+				-6.0,
+				-10.0
+			],
+			"path": "res://Assets/Resources/Minerals/cyan/tier_01.png",
+			"scale": [
+				0.533057868480682,
+				0.533057868480682
+			],
+			"tier": 1,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				34,
+				36
+			],
+			"color": "cyan",
+			"faction": "",
+			"group": "",
+			"id": "cyan_tier_01",
+			"kind": "",
+			"offset": [
+				-6.0,
+				-10.0
+			],
+			"path": "res://Assets/Resources/Minerals/cyan/tier_01.png",
+			"scale": [
+				0.533057868480682,
+				0.533057868480682
+			],
+			"tier": 1,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				35,
+				36
+			],
+			"color": "cyan",
+			"faction": "",
+			"group": "",
+			"id": "cyan_tier_01",
+			"kind": "",
+			"offset": [
+				-6.0,
+				-10.0
+			],
+			"path": "res://Assets/Resources/Minerals/cyan/tier_01.png",
+			"scale": [
+				0.533057868480682,
+				0.533057868480682
+			],
+			"tier": 1,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				35,
+				37
+			],
+			"color": "cyan",
+			"faction": "",
+			"group": "",
+			"id": "cyan_tier_01",
+			"kind": "",
+			"offset": [
+				-6.0,
+				-10.0
+			],
+			"path": "res://Assets/Resources/Minerals/cyan/tier_01.png",
+			"scale": [
+				0.533057868480682,
+				0.533057868480682
+			],
+			"tier": 1,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				36,
+				37
+			],
+			"color": "cyan",
+			"faction": "",
+			"group": "",
+			"id": "cyan_tier_01",
+			"kind": "",
+			"offset": [
+				-6.0,
+				-10.0
+			],
+			"path": "res://Assets/Resources/Minerals/cyan/tier_01.png",
+			"scale": [
+				0.533057868480682,
+				0.533057868480682
+			],
+			"tier": 1,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				36,
+				38
+			],
+			"color": "cyan",
+			"faction": "",
+			"group": "",
+			"id": "cyan_tier_01",
+			"kind": "",
+			"offset": [
+				-6.0,
+				-10.0
+			],
+			"path": "res://Assets/Resources/Minerals/cyan/tier_01.png",
+			"scale": [
+				0.533057868480682,
+				0.533057868480682
+			],
+			"tier": 1,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				37,
+				38
+			],
+			"color": "cyan",
+			"faction": "",
+			"group": "",
+			"id": "cyan_tier_01",
+			"kind": "",
+			"offset": [
+				-6.0,
+				-10.0
+			],
+			"path": "res://Assets/Resources/Minerals/cyan/tier_01.png",
+			"scale": [
+				0.533057868480682,
+				0.533057868480682
+			],
+			"tier": 1,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				37,
+				39
+			],
+			"color": "cyan",
+			"faction": "",
+			"group": "",
+			"id": "cyan_tier_01",
+			"kind": "",
+			"offset": [
+				-6.0,
+				-10.0
+			],
+			"path": "res://Assets/Resources/Minerals/cyan/tier_01.png",
+			"scale": [
+				0.533057868480682,
+				0.533057868480682
+			],
+			"tier": 1,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				38,
+				39
+			],
+			"color": "cyan",
+			"faction": "",
+			"group": "",
+			"id": "cyan_tier_01",
+			"kind": "",
+			"offset": [
+				-6.0,
+				-10.0
+			],
+			"path": "res://Assets/Resources/Minerals/cyan/tier_01.png",
+			"scale": [
+				0.533057868480682,
+				0.533057868480682
+			],
+			"tier": 1,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				53,
+				39
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "bushes_a_bushes_a_04",
+			"kind": "bushes_a",
+			"offset": [
+				-4.0,
+				-14.0
+			],
+			"path": "res://Assets/Environment/Vegetation/bushes_a/bushes_a_04.png",
+			"scale": [
+				0.508097112178802,
+				0.508097112178802
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				38,
+				40
+			],
+			"color": "cyan",
+			"faction": "",
+			"group": "",
+			"id": "cyan_tier_01",
+			"kind": "",
+			"offset": [
+				-6.0,
+				-10.0
+			],
+			"path": "res://Assets/Resources/Minerals/cyan/tier_01.png",
+			"scale": [
+				0.533057868480682,
+				0.533057868480682
+			],
+			"tier": 1,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				53,
+				40
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "bushes_a_bushes_a_04",
+			"kind": "bushes_a",
+			"offset": [
+				-4.0,
+				-14.0
+			],
+			"path": "res://Assets/Environment/Vegetation/bushes_a/bushes_a_04.png",
+			"scale": [
+				0.508097112178802,
+				0.508097112178802
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				54,
+				40
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "bushes_a_bushes_a_04",
+			"kind": "bushes_a",
+			"offset": [
+				-4.0,
+				-14.0
+			],
+			"path": "res://Assets/Environment/Vegetation/bushes_a/bushes_a_04.png",
+			"scale": [
+				0.508097112178802,
+				0.508097112178802
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				38,
+				41
+			],
+			"color": "cyan",
+			"faction": "",
+			"group": "",
+			"id": "cyan_tier_01",
+			"kind": "",
+			"offset": [
+				-6.0,
+				-10.0
+			],
+			"path": "res://Assets/Resources/Minerals/cyan/tier_01.png",
+			"scale": [
+				0.533057868480682,
+				0.533057868480682
+			],
+			"tier": 1,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				39,
+				41
+			],
+			"color": "cyan",
+			"faction": "",
+			"group": "",
+			"id": "cyan_tier_01",
+			"kind": "",
+			"offset": [
+				-6.0,
+				-10.0
+			],
+			"path": "res://Assets/Resources/Minerals/cyan/tier_01.png",
+			"scale": [
+				0.533057868480682,
+				0.533057868480682
+			],
+			"tier": 1,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				53,
+				41
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "bushes_a_bushes_a_04",
+			"kind": "bushes_a",
+			"offset": [
+				-4.0,
+				-14.0
+			],
+			"path": "res://Assets/Environment/Vegetation/bushes_a/bushes_a_04.png",
+			"scale": [
+				0.508097112178802,
+				0.508097112178802
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				54,
+				41
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "bushes_a_bushes_a_04",
+			"kind": "bushes_a",
+			"offset": [
+				-4.0,
+				-14.0
+			],
+			"path": "res://Assets/Environment/Vegetation/bushes_a/bushes_a_04.png",
+			"scale": [
+				0.508097112178802,
+				0.508097112178802
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				55,
+				41
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "bushes_a_bushes_a_04",
+			"kind": "bushes_a",
+			"offset": [
+				-4.0,
+				-14.0
+			],
+			"path": "res://Assets/Environment/Vegetation/bushes_a/bushes_a_04.png",
+			"scale": [
+				0.508097112178802,
+				0.508097112178802
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				53,
+				42
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "bushes_a_bushes_a_04",
+			"kind": "bushes_a",
+			"offset": [
+				-4.0,
+				-14.0
+			],
+			"path": "res://Assets/Environment/Vegetation/bushes_a/bushes_a_04.png",
+			"scale": [
+				0.508097112178802,
+				0.508097112178802
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				54,
+				42
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "bushes_a_bushes_a_04",
+			"kind": "bushes_a",
+			"offset": [
+				-4.0,
+				-14.0
+			],
+			"path": "res://Assets/Environment/Vegetation/bushes_a/bushes_a_04.png",
+			"scale": [
+				0.508097112178802,
+				0.508097112178802
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				55,
+				42
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "bushes_a_bushes_a_04",
+			"kind": "bushes_a",
+			"offset": [
+				-4.0,
+				-14.0
+			],
+			"path": "res://Assets/Environment/Vegetation/bushes_a/bushes_a_04.png",
+			"scale": [
+				0.508097112178802,
+				0.508097112178802
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				53,
+				43
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "bushes_a_bushes_a_04",
+			"kind": "bushes_a",
+			"offset": [
+				-4.0,
+				-14.0
+			],
+			"path": "res://Assets/Environment/Vegetation/bushes_a/bushes_a_04.png",
+			"scale": [
+				0.508097112178802,
+				0.508097112178802
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				54,
+				43
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "bushes_a_bushes_a_04",
+			"kind": "bushes_a",
+			"offset": [
+				-4.0,
+				-14.0
+			],
+			"path": "res://Assets/Environment/Vegetation/bushes_a/bushes_a_04.png",
+			"scale": [
+				0.508097112178802,
+				0.508097112178802
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				55,
+				43
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "bushes_a_bushes_a_04",
+			"kind": "bushes_a",
+			"offset": [
+				-4.0,
+				-14.0
+			],
+			"path": "res://Assets/Environment/Vegetation/bushes_a/bushes_a_04.png",
+			"scale": [
+				0.508097112178802,
+				0.508097112178802
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				53,
+				44
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "bushes_a_bushes_a_04",
+			"kind": "bushes_a",
+			"offset": [
+				-4.0,
+				-14.0
+			],
+			"path": "res://Assets/Environment/Vegetation/bushes_a/bushes_a_04.png",
+			"scale": [
+				0.508097112178802,
+				0.508097112178802
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				54,
+				44
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "bushes_a_bushes_a_04",
+			"kind": "bushes_a",
+			"offset": [
+				-4.0,
+				-14.0
+			],
+			"path": "res://Assets/Environment/Vegetation/bushes_a/bushes_a_04.png",
+			"scale": [
+				0.508097112178802,
+				0.508097112178802
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				55,
+				44
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "bushes_a_bushes_a_04",
+			"kind": "bushes_a",
+			"offset": [
+				-4.0,
+				-14.0
+			],
+			"path": "res://Assets/Environment/Vegetation/bushes_a/bushes_a_04.png",
+			"scale": [
+				0.508097112178802,
+				0.508097112178802
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				53,
+				45
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "bushes_a_bushes_a_04",
+			"kind": "bushes_a",
+			"offset": [
+				-4.0,
+				-14.0
+			],
+			"path": "res://Assets/Environment/Vegetation/bushes_a/bushes_a_04.png",
+			"scale": [
+				0.508097112178802,
+				0.508097112178802
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				54,
+				45
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "bushes_a_bushes_a_04",
+			"kind": "bushes_a",
+			"offset": [
+				-4.0,
+				-14.0
+			],
+			"path": "res://Assets/Environment/Vegetation/bushes_a/bushes_a_04.png",
+			"scale": [
+				0.508097112178802,
+				0.508097112178802
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				55,
+				45
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "bushes_a_bushes_a_04",
+			"kind": "bushes_a",
+			"offset": [
+				-4.0,
+				-14.0
+			],
+			"path": "res://Assets/Environment/Vegetation/bushes_a/bushes_a_04.png",
+			"scale": [
+				0.508097112178802,
+				0.508097112178802
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				53,
+				46
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "bushes_a_bushes_a_04",
+			"kind": "bushes_a",
+			"offset": [
+				-4.0,
+				-14.0
+			],
+			"path": "res://Assets/Environment/Vegetation/bushes_a/bushes_a_04.png",
+			"scale": [
+				0.508097112178802,
+				0.508097112178802
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				54,
+				46
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "bushes_a_bushes_a_04",
+			"kind": "bushes_a",
+			"offset": [
+				-4.0,
+				-14.0
+			],
+			"path": "res://Assets/Environment/Vegetation/bushes_a/bushes_a_04.png",
+			"scale": [
+				0.508097112178802,
+				0.508097112178802
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				55,
+				46
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "bushes_a_bushes_a_04",
+			"kind": "bushes_a",
+			"offset": [
+				-4.0,
+				-14.0
+			],
+			"path": "res://Assets/Environment/Vegetation/bushes_a/bushes_a_04.png",
+			"scale": [
+				0.508097112178802,
+				0.508097112178802
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				53,
+				47
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "bushes_a_bushes_a_04",
+			"kind": "bushes_a",
+			"offset": [
+				-4.0,
+				-14.0
+			],
+			"path": "res://Assets/Environment/Vegetation/bushes_a/bushes_a_04.png",
+			"scale": [
+				0.508097112178802,
+				0.508097112178802
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				54,
+				47
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "bushes_a_bushes_a_04",
+			"kind": "bushes_a",
+			"offset": [
+				-4.0,
+				-14.0
+			],
+			"path": "res://Assets/Environment/Vegetation/bushes_a/bushes_a_04.png",
+			"scale": [
+				0.508097112178802,
+				0.508097112178802
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				55,
+				47
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "bushes_a_bushes_a_04",
+			"kind": "bushes_a",
+			"offset": [
+				-4.0,
+				-14.0
+			],
+			"path": "res://Assets/Environment/Vegetation/bushes_a/bushes_a_04.png",
+			"scale": [
+				0.508097112178802,
+				0.508097112178802
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				53,
+				48
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "bushes_a_bushes_a_04",
+			"kind": "bushes_a",
+			"offset": [
+				-4.0,
+				-14.0
+			],
+			"path": "res://Assets/Environment/Vegetation/bushes_a/bushes_a_04.png",
+			"scale": [
+				0.508097112178802,
+				0.508097112178802
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				54,
+				48
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "bushes_a_bushes_a_04",
+			"kind": "bushes_a",
+			"offset": [
+				-4.0,
+				-14.0
+			],
+			"path": "res://Assets/Environment/Vegetation/bushes_a/bushes_a_04.png",
+			"scale": [
+				0.508097112178802,
+				0.508097112178802
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				55,
+				48
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "bushes_a_bushes_a_04",
+			"kind": "bushes_a",
+			"offset": [
+				-4.0,
+				-14.0
+			],
+			"path": "res://Assets/Environment/Vegetation/bushes_a/bushes_a_04.png",
+			"scale": [
+				0.508097112178802,
+				0.508097112178802
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				53,
+				49
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "bushes_a_bushes_a_04",
+			"kind": "bushes_a",
+			"offset": [
+				-4.0,
+				-14.0
+			],
+			"path": "res://Assets/Environment/Vegetation/bushes_a/bushes_a_04.png",
+			"scale": [
+				0.508097112178802,
+				0.508097112178802
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				54,
+				49
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "bushes_a_bushes_a_04",
+			"kind": "bushes_a",
+			"offset": [
+				-4.0,
+				-14.0
+			],
+			"path": "res://Assets/Environment/Vegetation/bushes_a/bushes_a_04.png",
+			"scale": [
+				0.508097112178802,
+				0.508097112178802
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				55,
+				49
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "bushes_a_bushes_a_04",
+			"kind": "bushes_a",
+			"offset": [
+				-4.0,
+				-14.0
+			],
+			"path": "res://Assets/Environment/Vegetation/bushes_a/bushes_a_04.png",
+			"scale": [
+				0.508097112178802,
+				0.508097112178802
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				53,
+				50
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "bushes_a_bushes_a_04",
+			"kind": "bushes_a",
+			"offset": [
+				-4.0,
+				-14.0
+			],
+			"path": "res://Assets/Environment/Vegetation/bushes_a/bushes_a_04.png",
+			"scale": [
+				0.508097112178802,
+				0.508097112178802
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				54,
+				50
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "bushes_a_bushes_a_04",
+			"kind": "bushes_a",
+			"offset": [
+				-4.0,
+				-14.0
+			],
+			"path": "res://Assets/Environment/Vegetation/bushes_a/bushes_a_04.png",
+			"scale": [
+				0.508097112178802,
+				0.508097112178802
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				55,
+				50
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "bushes_a_bushes_a_04",
+			"kind": "bushes_a",
+			"offset": [
+				-4.0,
+				-14.0
+			],
+			"path": "res://Assets/Environment/Vegetation/bushes_a/bushes_a_04.png",
+			"scale": [
+				0.508097112178802,
+				0.508097112178802
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				53,
+				51
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "bushes_a_bushes_a_04",
+			"kind": "bushes_a",
+			"offset": [
+				-4.0,
+				-14.0
+			],
+			"path": "res://Assets/Environment/Vegetation/bushes_a/bushes_a_04.png",
+			"scale": [
+				0.508097112178802,
+				0.508097112178802
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				54,
+				51
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "bushes_a_bushes_a_04",
+			"kind": "bushes_a",
+			"offset": [
+				-4.0,
+				-14.0
+			],
+			"path": "res://Assets/Environment/Vegetation/bushes_a/bushes_a_04.png",
+			"scale": [
+				0.508097112178802,
+				0.508097112178802
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				55,
+				51
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "bushes_a_bushes_a_04",
+			"kind": "bushes_a",
+			"offset": [
+				-4.0,
+				-14.0
+			],
+			"path": "res://Assets/Environment/Vegetation/bushes_a/bushes_a_04.png",
+			"scale": [
+				0.508097112178802,
+				0.508097112178802
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				49,
+				52
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "bushes_a_bushes_a_04",
+			"kind": "bushes_a",
+			"offset": [
+				-4.0,
+				-14.0
+			],
+			"path": "res://Assets/Environment/Vegetation/bushes_a/bushes_a_04.png",
+			"scale": [
+				0.508097112178802,
+				0.508097112178802
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				50,
+				52
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "bushes_a_bushes_a_04",
+			"kind": "bushes_a",
+			"offset": [
+				-4.0,
+				-14.0
+			],
+			"path": "res://Assets/Environment/Vegetation/bushes_a/bushes_a_04.png",
+			"scale": [
+				0.508097112178802,
+				0.508097112178802
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				51,
+				52
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "bushes_a_bushes_a_04",
+			"kind": "bushes_a",
+			"offset": [
+				-4.0,
+				-14.0
+			],
+			"path": "res://Assets/Environment/Vegetation/bushes_a/bushes_a_04.png",
+			"scale": [
+				0.508097112178802,
+				0.508097112178802
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				52,
+				52
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "bushes_a_bushes_a_04",
+			"kind": "bushes_a",
+			"offset": [
+				-4.0,
+				-14.0
+			],
+			"path": "res://Assets/Environment/Vegetation/bushes_a/bushes_a_04.png",
+			"scale": [
+				0.508097112178802,
+				0.508097112178802
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				53,
+				52
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "bushes_a_bushes_a_04",
+			"kind": "bushes_a",
+			"offset": [
+				-4.0,
+				-14.0
+			],
+			"path": "res://Assets/Environment/Vegetation/bushes_a/bushes_a_04.png",
+			"scale": [
+				0.508097112178802,
+				0.508097112178802
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				54,
+				52
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "bushes_a_bushes_a_04",
+			"kind": "bushes_a",
+			"offset": [
+				-4.0,
+				-14.0
+			],
+			"path": "res://Assets/Environment/Vegetation/bushes_a/bushes_a_04.png",
+			"scale": [
+				0.508097112178802,
+				0.508097112178802
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				55,
+				52
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "bushes_a_bushes_a_04",
+			"kind": "bushes_a",
+			"offset": [
+				-4.0,
+				-14.0
+			],
+			"path": "res://Assets/Environment/Vegetation/bushes_a/bushes_a_04.png",
+			"scale": [
+				0.508097112178802,
+				0.508097112178802
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				50,
+				53
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "bushes_a_bushes_a_04",
+			"kind": "bushes_a",
+			"offset": [
+				-4.0,
+				-14.0
+			],
+			"path": "res://Assets/Environment/Vegetation/bushes_a/bushes_a_04.png",
+			"scale": [
+				0.508097112178802,
+				0.508097112178802
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				51,
+				53
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "bushes_a_bushes_a_04",
+			"kind": "bushes_a",
+			"offset": [
+				-4.0,
+				-14.0
+			],
+			"path": "res://Assets/Environment/Vegetation/bushes_a/bushes_a_04.png",
+			"scale": [
+				0.508097112178802,
+				0.508097112178802
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				52,
+				53
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "bushes_a_bushes_a_04",
+			"kind": "bushes_a",
+			"offset": [
+				-4.0,
+				-14.0
+			],
+			"path": "res://Assets/Environment/Vegetation/bushes_a/bushes_a_04.png",
+			"scale": [
+				0.508097112178802,
+				0.508097112178802
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				53,
+				53
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "bushes_a_bushes_a_04",
+			"kind": "bushes_a",
+			"offset": [
+				-4.0,
+				-14.0
+			],
+			"path": "res://Assets/Environment/Vegetation/bushes_a/bushes_a_04.png",
+			"scale": [
+				0.508097112178802,
+				0.508097112178802
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				50,
+				54
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "bushes_a_bushes_a_04",
+			"kind": "bushes_a",
+			"offset": [
+				-4.0,
+				-14.0
+			],
+			"path": "res://Assets/Environment/Vegetation/bushes_a/bushes_a_04.png",
+			"scale": [
+				0.508097112178802,
+				0.508097112178802
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				51,
+				54
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "bushes_a_bushes_a_04",
+			"kind": "bushes_a",
+			"offset": [
+				-4.0,
+				-14.0
+			],
+			"path": "res://Assets/Environment/Vegetation/bushes_a/bushes_a_04.png",
+			"scale": [
+				0.508097112178802,
+				0.508097112178802
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				52,
+				54
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "bushes_a_bushes_a_04",
+			"kind": "bushes_a",
+			"offset": [
+				-4.0,
+				-14.0
+			],
+			"path": "res://Assets/Environment/Vegetation/bushes_a/bushes_a_04.png",
+			"scale": [
+				0.508097112178802,
+				0.508097112178802
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				53,
+				54
+			],
+			"color": "",
+			"faction": "",
+			"group": "",
+			"id": "bushes_a_bushes_a_04",
+			"kind": "bushes_a",
+			"offset": [
+				-4.0,
+				-14.0
+			],
+			"path": "res://Assets/Environment/Vegetation/bushes_a/bushes_a_04.png",
+			"scale": [
+				0.508097112178802,
+				0.508097112178802
+			],
+			"tier": 0,
+			"type": "environment"
+		},
+		{
+			"cell": [
+				60,
+				56
+			],
+			"color": "cyan",
+			"faction": "",
+			"group": "",
+			"id": "cyan_tier_01",
+			"kind": "",
+			"offset": [
+				-6.0,
+				-10.0
+			],
+			"path": "res://Assets/Resources/Minerals/cyan/tier_01.png",
+			"scale": [
+				0.533057868480682,
+				0.533057868480682
+			],
+			"tier": 1,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				61,
+				56
+			],
+			"color": "cyan",
+			"faction": "",
+			"group": "",
+			"id": "cyan_tier_01",
+			"kind": "",
+			"offset": [
+				-6.0,
+				-10.0
+			],
+			"path": "res://Assets/Resources/Minerals/cyan/tier_01.png",
+			"scale": [
+				0.533057868480682,
+				0.533057868480682
+			],
+			"tier": 1,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				62,
+				56
+			],
+			"color": "cyan",
+			"faction": "",
+			"group": "",
+			"id": "cyan_tier_02",
+			"kind": "",
+			"offset": [
+				-2.5,
+				-18.0
+			],
+			"path": "res://Assets/Resources/Minerals/cyan/tier_02.png",
+			"scale": [
+				0.557484865188599,
+				0.557484865188599
+			],
+			"tier": 2,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				60,
+				57
+			],
+			"color": "cyan",
+			"faction": "",
+			"group": "",
+			"id": "cyan_tier_01",
+			"kind": "",
+			"offset": [
+				-6.0,
+				-10.0
+			],
+			"path": "res://Assets/Resources/Minerals/cyan/tier_01.png",
+			"scale": [
+				0.533057868480682,
+				0.533057868480682
+			],
+			"tier": 1,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				61,
+				57
+			],
+			"color": "cyan",
+			"faction": "",
+			"group": "",
+			"id": "cyan_tier_01",
+			"kind": "",
+			"offset": [
+				-6.0,
+				-10.0
+			],
+			"path": "res://Assets/Resources/Minerals/cyan/tier_01.png",
+			"scale": [
+				0.533057868480682,
+				0.533057868480682
+			],
+			"tier": 1,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				62,
+				57
+			],
+			"color": "cyan",
+			"faction": "",
+			"group": "",
+			"id": "cyan_tier_02",
+			"kind": "",
+			"offset": [
+				-2.5,
+				-18.0
+			],
+			"path": "res://Assets/Resources/Minerals/cyan/tier_02.png",
+			"scale": [
+				0.557484865188599,
+				0.557484865188599
+			],
+			"tier": 2,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				60,
+				58
+			],
+			"color": "cyan",
+			"faction": "",
+			"group": "",
+			"id": "cyan_tier_01",
+			"kind": "",
+			"offset": [
+				-6.0,
+				-10.0
+			],
+			"path": "res://Assets/Resources/Minerals/cyan/tier_01.png",
+			"scale": [
+				0.533057868480682,
+				0.533057868480682
+			],
+			"tier": 1,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				61,
+				58
+			],
+			"color": "cyan",
+			"faction": "",
+			"group": "",
+			"id": "cyan_tier_01",
+			"kind": "",
+			"offset": [
+				-6.0,
+				-10.0
+			],
+			"path": "res://Assets/Resources/Minerals/cyan/tier_01.png",
+			"scale": [
+				0.533057868480682,
+				0.533057868480682
+			],
+			"tier": 1,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				62,
+				58
+			],
+			"color": "cyan",
+			"faction": "",
+			"group": "",
+			"id": "cyan_tier_02",
+			"kind": "",
+			"offset": [
+				-2.5,
+				-18.0
+			],
+			"path": "res://Assets/Resources/Minerals/cyan/tier_02.png",
+			"scale": [
+				0.557484865188599,
+				0.557484865188599
+			],
+			"tier": 2,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				60,
+				59
+			],
+			"color": "cyan",
+			"faction": "",
+			"group": "",
+			"id": "cyan_tier_01",
+			"kind": "",
+			"offset": [
+				-6.0,
+				-10.0
+			],
+			"path": "res://Assets/Resources/Minerals/cyan/tier_01.png",
+			"scale": [
+				0.533057868480682,
+				0.533057868480682
+			],
+			"tier": 1,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				61,
+				59
+			],
+			"color": "cyan",
+			"faction": "",
+			"group": "",
+			"id": "cyan_tier_01",
+			"kind": "",
+			"offset": [
+				-6.0,
+				-10.0
+			],
+			"path": "res://Assets/Resources/Minerals/cyan/tier_01.png",
+			"scale": [
+				0.533057868480682,
+				0.533057868480682
+			],
+			"tier": 1,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				62,
+				59
+			],
+			"color": "cyan",
+			"faction": "",
+			"group": "",
+			"id": "cyan_tier_03",
+			"kind": "",
+			"offset": [
+				-1.5,
+				-28.0
+			],
+			"path": "res://Assets/Resources/Minerals/cyan/tier_03.png",
+			"scale": [
+				0.552419364452362,
+				0.552419364452362
+			],
+			"tier": 3,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				56,
+				60
+			],
+			"color": "cyan",
+			"faction": "",
+			"group": "",
+			"id": "cyan_tier_01",
+			"kind": "",
+			"offset": [
+				-6.0,
+				-10.0
+			],
+			"path": "res://Assets/Resources/Minerals/cyan/tier_01.png",
+			"scale": [
+				0.533057868480682,
+				0.533057868480682
+			],
+			"tier": 1,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				57,
+				60
+			],
+			"color": "cyan",
+			"faction": "",
+			"group": "",
+			"id": "cyan_tier_01",
+			"kind": "",
+			"offset": [
+				-6.0,
+				-10.0
+			],
+			"path": "res://Assets/Resources/Minerals/cyan/tier_01.png",
+			"scale": [
+				0.533057868480682,
+				0.533057868480682
+			],
+			"tier": 1,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				58,
+				60
+			],
+			"color": "cyan",
+			"faction": "",
+			"group": "",
+			"id": "cyan_tier_01",
+			"kind": "",
+			"offset": [
+				-6.0,
+				-10.0
+			],
+			"path": "res://Assets/Resources/Minerals/cyan/tier_01.png",
+			"scale": [
+				0.533057868480682,
+				0.533057868480682
+			],
+			"tier": 1,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				59,
+				60
+			],
+			"color": "cyan",
+			"faction": "",
+			"group": "",
+			"id": "cyan_tier_01",
+			"kind": "",
+			"offset": [
+				-6.0,
+				-10.0
+			],
+			"path": "res://Assets/Resources/Minerals/cyan/tier_01.png",
+			"scale": [
+				0.533057868480682,
+				0.533057868480682
+			],
+			"tier": 1,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				60,
+				60
+			],
+			"color": "cyan",
+			"faction": "",
+			"group": "",
+			"id": "cyan_tier_01",
+			"kind": "",
+			"offset": [
+				-6.0,
+				-10.0
+			],
+			"path": "res://Assets/Resources/Minerals/cyan/tier_01.png",
+			"scale": [
+				0.533057868480682,
+				0.533057868480682
+			],
+			"tier": 1,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				61,
+				60
+			],
+			"color": "cyan",
+			"faction": "",
+			"group": "",
+			"id": "cyan_tier_01",
+			"kind": "",
+			"offset": [
+				-6.0,
+				-10.0
+			],
+			"path": "res://Assets/Resources/Minerals/cyan/tier_01.png",
+			"scale": [
+				0.533057868480682,
+				0.533057868480682
+			],
+			"tier": 1,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				62,
+				60
+			],
+			"color": "cyan",
+			"faction": "",
+			"group": "",
+			"id": "cyan_tier_03",
+			"kind": "",
+			"offset": [
+				-1.5,
+				-28.0
+			],
+			"path": "res://Assets/Resources/Minerals/cyan/tier_03.png",
+			"scale": [
+				0.552419364452362,
+				0.552419364452362
+			],
+			"tier": 3,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				56,
+				61
+			],
+			"color": "cyan",
+			"faction": "",
+			"group": "",
+			"id": "cyan_tier_01",
+			"kind": "",
+			"offset": [
+				-6.0,
+				-10.0
+			],
+			"path": "res://Assets/Resources/Minerals/cyan/tier_01.png",
+			"scale": [
+				0.533057868480682,
+				0.533057868480682
+			],
+			"tier": 1,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				57,
+				61
+			],
+			"color": "cyan",
+			"faction": "",
+			"group": "",
+			"id": "cyan_tier_01",
+			"kind": "",
+			"offset": [
+				-6.0,
+				-10.0
+			],
+			"path": "res://Assets/Resources/Minerals/cyan/tier_01.png",
+			"scale": [
+				0.533057868480682,
+				0.533057868480682
+			],
+			"tier": 1,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				58,
+				61
+			],
+			"color": "cyan",
+			"faction": "",
+			"group": "",
+			"id": "cyan_tier_01",
+			"kind": "",
+			"offset": [
+				-6.0,
+				-10.0
+			],
+			"path": "res://Assets/Resources/Minerals/cyan/tier_01.png",
+			"scale": [
+				0.533057868480682,
+				0.533057868480682
+			],
+			"tier": 1,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				59,
+				61
+			],
+			"color": "cyan",
+			"faction": "",
+			"group": "",
+			"id": "cyan_tier_01",
+			"kind": "",
+			"offset": [
+				-6.0,
+				-10.0
+			],
+			"path": "res://Assets/Resources/Minerals/cyan/tier_01.png",
+			"scale": [
+				0.533057868480682,
+				0.533057868480682
+			],
+			"tier": 1,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				60,
+				61
+			],
+			"color": "cyan",
+			"faction": "",
+			"group": "",
+			"id": "cyan_tier_01",
+			"kind": "",
+			"offset": [
+				-6.0,
+				-10.0
+			],
+			"path": "res://Assets/Resources/Minerals/cyan/tier_01.png",
+			"scale": [
+				0.533057868480682,
+				0.533057868480682
+			],
+			"tier": 1,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				61,
+				61
+			],
+			"color": "cyan",
+			"faction": "",
+			"group": "",
+			"id": "cyan_tier_01",
+			"kind": "",
+			"offset": [
+				-6.0,
+				-10.0
+			],
+			"path": "res://Assets/Resources/Minerals/cyan/tier_01.png",
+			"scale": [
+				0.533057868480682,
+				0.533057868480682
+			],
+			"tier": 1,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				62,
+				61
+			],
+			"color": "cyan",
+			"faction": "",
+			"group": "",
+			"id": "cyan_tier_03",
+			"kind": "",
+			"offset": [
+				-1.5,
+				-28.0
+			],
+			"path": "res://Assets/Resources/Minerals/cyan/tier_03.png",
+			"scale": [
+				0.552419364452362,
+				0.552419364452362
+			],
+			"tier": 3,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				56,
+				62
+			],
+			"color": "cyan",
+			"faction": "",
+			"group": "",
+			"id": "cyan_tier_02",
+			"kind": "",
+			"offset": [
+				-2.5,
+				-18.0
+			],
+			"path": "res://Assets/Resources/Minerals/cyan/tier_02.png",
+			"scale": [
+				0.557484865188599,
+				0.557484865188599
+			],
+			"tier": 2,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				57,
+				62
+			],
+			"color": "cyan",
+			"faction": "",
+			"group": "",
+			"id": "cyan_tier_02",
+			"kind": "",
+			"offset": [
+				-2.5,
+				-18.0
+			],
+			"path": "res://Assets/Resources/Minerals/cyan/tier_02.png",
+			"scale": [
+				0.557484865188599,
+				0.557484865188599
+			],
+			"tier": 2,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				58,
+				62
+			],
+			"color": "cyan",
+			"faction": "",
+			"group": "",
+			"id": "cyan_tier_02",
+			"kind": "",
+			"offset": [
+				-2.5,
+				-18.0
+			],
+			"path": "res://Assets/Resources/Minerals/cyan/tier_02.png",
+			"scale": [
+				0.557484865188599,
+				0.557484865188599
+			],
+			"tier": 2,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				59,
+				62
+			],
+			"color": "cyan",
+			"faction": "",
+			"group": "",
+			"id": "cyan_tier_03",
+			"kind": "",
+			"offset": [
+				-1.5,
+				-28.0
+			],
+			"path": "res://Assets/Resources/Minerals/cyan/tier_03.png",
+			"scale": [
+				0.552419364452362,
+				0.552419364452362
+			],
+			"tier": 3,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				60,
+				62
+			],
+			"color": "cyan",
+			"faction": "",
+			"group": "",
+			"id": "cyan_tier_03",
+			"kind": "",
+			"offset": [
+				-1.5,
+				-28.0
+			],
+			"path": "res://Assets/Resources/Minerals/cyan/tier_03.png",
+			"scale": [
+				0.552419364452362,
+				0.552419364452362
+			],
+			"tier": 3,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				61,
+				62
+			],
+			"color": "cyan",
+			"faction": "",
+			"group": "",
+			"id": "cyan_tier_03",
+			"kind": "",
+			"offset": [
+				-1.5,
+				-28.0
+			],
+			"path": "res://Assets/Resources/Minerals/cyan/tier_03.png",
+			"scale": [
+				0.552419364452362,
+				0.552419364452362
+			],
+			"tier": 3,
+			"type": "mineral"
+		},
+		{
+			"cell": [
+				62,
+				62
+			],
+			"color": "cyan",
+			"faction": "",
+			"group": "",
+			"id": "cyan_tier_04",
+			"kind": "",
+			"offset": [
+				1.0,
+				-27.0
+			],
+			"path": "res://Assets/Resources/Minerals/cyan/tier_04.png",
+			"scale": [
+				0.47697377204895,
+				0.47697377204895
+			],
+			"tier": 4,
+			"type": "mineral"
+		}
+	]
+}

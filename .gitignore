@@ -1,0 +1,26 @@
+# Godot local cache
+.godot/
+.import/
+
+# Godot exports / builds
+/build/
+/builds/
+/exports/
+*.exe
+*.pck
+*.apk
+*.aab
+*.ipa
+*.app
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Secrets
+.env
+.env.*
+# Temp files
+*.TMP
+*.tmp
