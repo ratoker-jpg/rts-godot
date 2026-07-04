@@ -1,5 +1,4 @@
 extends RefCounted
-class_name IsoCoords
 
 # Изометрические преобразования координат.
 # Соответствует _tile_float_to_local, _sort_z_for_cell, _sort_z_for_footprint в game_world.gd.

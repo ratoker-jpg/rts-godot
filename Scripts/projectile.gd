@@ -1,5 +1,4 @@
 extends Node2D
-class_name Projectile
 
 # Снаряд с homing-поведением и поддержкой pierce (для railgun).
 # Соответствует src/state/blockoutWeaponVfx.ts + combatHitModel.ts из four-elements-phaser.

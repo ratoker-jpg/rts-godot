@@ -1,5 +1,4 @@
 extends RefCounted
-class_name BuildSiteSelector
 
 # Автоматический выбор позиции для строительства.
 # Соответствует src/state/buildSiteSelection.ts из four-elements-phaser.

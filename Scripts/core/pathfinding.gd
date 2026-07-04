@@ -1,5 +1,4 @@
 extends RefCounted
-class_name Pathfinding
 
 # BFS 4-connectivity pathfinding.
 # Соответствует src/state/pathfinding.ts из four-elements-phaser.
@@ -18,7 +17,7 @@ const DIRS_4 := [
 # Возвращает массив тайлов (Vector2i) БЕЗ стартового.
 # Пустой массив если: цель непроходима, недостижима, или from == to.
 static func find_path(
-		occupancy: OccupancyMap,
+		occupancy,
 		from: Vector2i,
 		to: Vector2i
 	) -> Array[Vector2i]:
@@ -71,7 +70,7 @@ static func find_path(
 # Используется харвестером (подойти к ресурсу) и билдером (подойти к стройплощадке).
 # Возвращает массив тайлов БЕЗ стартового. Пустой массив если уже смежный или недостижимо.
 static func find_path_to_adjacent(
-		occupancy: OccupancyMap,
+		occupancy,
 		from: Vector2i,
 		target_origin: Vector2i,
 		fp_w: int,

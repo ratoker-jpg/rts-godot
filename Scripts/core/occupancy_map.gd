@@ -1,5 +1,4 @@
 extends RefCounted
-class_name OccupancyMap
 
 # Карта занятости тайлов.
 # Соответствует src/state/occupancy.ts из four-elements-phaser.

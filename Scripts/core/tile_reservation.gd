@@ -1,5 +1,4 @@
 extends RefCounted
-class_name TileReservationMap
 
 # Предотвращает наложение юнитов.
 # Соответствует src/state/tileReservation.ts из four-elements-phaser.

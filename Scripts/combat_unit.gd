@@ -1,5 +1,4 @@
 extends Node2D
-class_name CombatUnit
 
 signal selection_changed(selected: bool)
 signal died(unit: Node2D)
@@ -80,8 +79,8 @@ var attack_target: Node2D
 var is_destroyed: bool = false
 
 # Состояние движения (MovementStateMachine)
-var grid_movement: MovementStateMachine.GridMovementState
-var movement_config: MovementStateMachine.GridMovementConfig
+var grid_movement  # MovementStateMachine.GridMovementState
+var movement_config  # MovementStateMachine.GridMovementConfig
 # Ссылки на внешние объекты (получаются от GameWorld)
 var _occupancy  # OccupancyMap
 var _reservation_map  # TileReservationMap
@@ -153,7 +152,7 @@ func setup(faction: String, hull: String, turret: String, hull_level: int = 0, t
 
 
 # Инициализация ссылки на game_world и tile_size (вызывается из GameWorld после add_child).
-func init_combat_unit(game_world: Node2D, occupancy, reservation_map: TileReservationMap, \
+func init_combat_unit(game_world: Node2D, occupancy, reservation_map, \
                 tile_size: Vector2i, get_occupancy_for_repath: Callable) -> void:
         _game_world = game_world
         _occupancy = occupancy
@@ -172,7 +171,7 @@ func init_combat_unit(game_world: Node2D, occupancy, reservation_map: TileReserv
         grid_movement.target_tile = tile
 
 
-func _create_movement_config() -> MovementStateMachine.GridMovementConfig:
+func _create_movement_config():
         var stats: Dictionary = HULL_STATS.get(hull_id, HULL_STATS["wasp"])
         # speed указан в "pixel per sec"-подобных единицах; конвертируем в tiles/sec
         # В Phaser PIXELS_PER_TILE = 42. Здесь tile_size = 203, но для движения мы используем

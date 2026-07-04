@@ -1,5 +1,4 @@
 extends RefCounted
-class_name DebugFlags
 
 # Флаги для debug-команд. В production = false.
 # В development: установить в true для тестов.

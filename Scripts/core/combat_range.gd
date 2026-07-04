@@ -1,5 +1,4 @@
 extends RefCounted
-class_name CombatRange
 
 # Range bands для боевой системы.
 # Соответствует src/state/combatRange.ts из four-elements-phaser.

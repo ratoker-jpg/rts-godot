@@ -190,8 +190,8 @@ var _next_civil_unit_id: int = 1
 var _is_camera_dragging: bool = false
 var _last_mouse_position: Vector2 = Vector2.ZERO
 # ─── Новые поля для pathfinding и tile reservation ───
-var _occupancy_map: OccupancyMap
-var _tile_reservation_map: TileReservationMapClass
+var _occupancy_map
+var _tile_reservation_map
 
 var _mineral_richness_defs: Array[Dictionary] = [
         {"id": "very_poor", "name": "Очень бедный", "amount": 300, "tier": 1, "infinite": false},
@@ -372,7 +372,7 @@ func _rebuild_occupancy_map() -> void:
 
 
 # Callable для MovementStateMachine: возвращает свежую occupancy map с учётом юнитов.
-func build_occupancy_for_repath() -> OccupancyMap:
+func build_occupancy_for_repath():
         var fresh := _occupancy_map.duplicate()
         # Добавить гражданских юнитов как blockers
         for unit in _civil_units:

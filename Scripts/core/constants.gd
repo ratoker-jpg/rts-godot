@@ -1,5 +1,4 @@
 extends RefCounted
-class_name Constants
 
 # ─── Tile & projection ─────────────────────────────────
 const TILE_SET_PATH := "res://Scenes/isometric_tiles_TOP_FACE_try.tres"

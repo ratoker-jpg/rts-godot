@@ -1,5 +1,4 @@
 extends RefCounted
-class_name DamageFormula
 
 # Формула урона с учётом брони.
 # Соответствует src/config/armorFormula.ts из four-elements-phaser.

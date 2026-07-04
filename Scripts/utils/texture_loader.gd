@@ -1,5 +1,4 @@
 extends RefCounted
-class_name TextureLoader
 
 # Единая функция загрузки PNG-текстур с fallback.
 # Заменяет дубликаты _load_png_texture() в main.gd, game_world.gd, combat_unit.gd.

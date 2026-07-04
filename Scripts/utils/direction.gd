@@ -1,5 +1,4 @@
 extends RefCounted
-class_name Direction
 
 # 16-направленное кодирование для модульных юнитов.
 # Соответствует DIRECTIONS в combat_unit.gd и MODULAR_DIRECTIONS в game_world.gd.
