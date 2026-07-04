@@ -35,3 +35,6 @@ desktop.ini
 *.godot.editor
 .vscode/
 .idea/
+
+# ziva temp dll
+addons/ziva_agent/bin/windows_x86_64/~*.dll
