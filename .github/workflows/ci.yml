@@ -1,0 +1,84 @@
+name: CI
+
+on:
+  push:
+    branches: [main, develop]
+  pull_request:
+    branches: [main]
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          lfs: true
+      - name: Setup Godot
+        uses: chickensoft-games/setup-godot@v1
+        with:
+          version: 4.7.0
+          use-dotnet: false
+      - name: GDScript lint (headless check)
+        run: |
+          godot --headless --path . --check-only --quit 2>&1 | tee lint_output.txt
+          if grep -i "error\|warning" lint_output.txt; then
+            echo "GDScript lint found issues"
+            exit 1
+          fi
+
+  export-windows:
+    needs: lint
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main'
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          lfs: true
+      - name: Setup Godot
+        uses: chickensoft-games/setup-godot@v1
+        with:
+          version: 4.7.0
+          use-dotnet: false
+      - name: Create export preset
+        run: |
+          mkdir -p build
+          cat > export_presets.cfg << 'EOF'
+          [preset.0]
+          name="Windows Desktop"
+          platform="Windows Desktop"
+          runnable=true
+          dedicated_server=false
+          custom_features=""
+          export_filter="all_resources"
+          export_files=PoolStringArray([])
+          include_filter=""
+          exclude_filter=""
+          export_path="build/rts-godot.exe"
+          script_export_mode=1
+          EOF
+      - name: Export Windows
+        run: |
+          godot --headless --path . --export-release "Windows Desktop" build/rts-godot.exe 2>&1 || true
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: rts-godot-windows
+          path: build/
+          if-no-files-found: warn
+
+  notify-telegram:
+    needs: [lint, export-windows]
+    if: always()
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send Telegram notification
+        uses: appleboy/telegram-action@master
+        with:
+          to: ${{ secrets.TELEGRAM_CHAT_ID }}
+          token: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          message: |
+            🎮 rts-godot CI: ${{ job.status }}
+            Branch: ${{ github.ref_name }}
+            Commit: ${{ github.event.head_commit.message }}
+            Run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+          format: html

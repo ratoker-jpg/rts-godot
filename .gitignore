@@ -21,6 +21,17 @@ desktop.ini
 # Secrets
 .env
 .env.*
+
 # Temp files
 *.TMP
 *.tmp
+
+# ziva_agent binaries (should be downloaded via installer, not committed)
+# Uncomment if you want to exclude them from repo:
+# addons/ziva_agent/bin/
+# addons/ziva_agent/bin-deps/
+
+# Editor-specific files
+*.godot.editor
+.vscode/
+.idea/

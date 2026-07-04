@@ -1,2 +1,33 @@
-# Normalize EOL for all files that Git considers text files.
+# Git LFS tracking for large binary assets
+Assets/**/*.png filter=lfs diff=lfs merge=lfs -text
+Assets/**/*.wav filter=lfs diff=lfs merge=lfs -text
+Assets/**/*.ogg filter=lfs diff=lfs merge=lfs -text
+Assets/**/*.mp3 filter=lfs diff=lfs merge=lfs -text
+Scenes/**/*.png filter=lfs diff=lfs merge=lfs -text
+*.exe filter=lfs diff=lfs merge=lfs -text
+
+# Normalize EOL for all text files
 * text=auto eol=lf
+
+# GDScript files always LF
+*.gd text eol=lf
+
+# Scene and resource files
+*.tscn text eol=lf
+*.tres text eol=lf
+
+# JSON files
+*.json text eol=lf
+
+# YAML files
+*.yml text eol=lf
+*.yaml text eol=lf
+
+# Markdown
+*.md text eol=lf
+
+# Shell scripts
+*.sh text eol=lf
+
+# Godot binary files (should not be merged)
+*.godot binary
